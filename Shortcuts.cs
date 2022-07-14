@@ -6,7 +6,7 @@
 **
 **  This file is a part of the C# Library Shortcuts.
 ** 
-**  Read Assembly informations
+**  To Create and Read .url and .lnk shortucts in windows
 **
 */
 using System;
