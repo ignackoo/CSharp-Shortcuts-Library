@@ -12,3 +12,5 @@ Choose Add Reference...
 Navigate to the COM tab and find “Windows Script Host Object Model” 
 Add it to project References (checkboxed)
 Click OK
+
+please give me some star if you will see that the library is useful, thank you
